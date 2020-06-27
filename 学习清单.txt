@@ -1,0 +1,14 @@
+1. git
+	初始化版本库
+	git init
+	
+	添加文件到版本库
+	git add
+	git commit
+	查看仓库状态
+	git status
+	
+	
+2. js
+3. php
+4. vue 相关
