@@ -9,7 +9,7 @@
 	git status
 	
 	sourceTree
-
+	add
 2. js
 3. php
 4. vue 相关
