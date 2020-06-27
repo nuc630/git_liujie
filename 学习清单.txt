@@ -8,6 +8,7 @@
 	查看仓库状态
 	git status
 	
+	sourceTree
 	
 2. js
 3. php
